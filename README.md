@@ -1,2 +1,3 @@
-price-alert
+Price Alert
 ===========
+
